@@ -36,4 +36,4 @@ async function scrapeData() {
     }
 }
 
-setInterval(() => scrapeData(), 3600000);
+setInterval(() => scrapeData(), 18000000);
